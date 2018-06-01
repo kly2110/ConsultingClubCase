@@ -1,7 +1,7 @@
 # Consulting Club Case Competition Summary
 
 ## Summary
-I have provided a script of my solution to the problem presented in the case competition. The competition took place over the course of two days – the first day involved getting to know the problem and formulating a strategy, while day two involved presenting our solution to the judges. Some data relating to the dry wall industry’s market share was provided. 
+I have provided a script of my solution to the problem presented in the case competition. The competition took place over the course of two days – the first day involved getting to know the problem and formulating a strategy, while day two involved presenting our solution to the judges. Some data relating to the dry wall industry’s market share was provided. Other information provided includes the total number of competitors in the industry, and typical customer behavior. 
 
 ## Problem
 An incoming low-cost competitor is entering the dry wall market, and our customer, the largest dry wall manufacturer in the country, must decide how to respond. 
@@ -20,7 +20,7 @@ Our goals are to:
 - Increase profitability
 - We do not want to focus on pricing or beating competitor out of the market. 
 
-It’s mentioned in the case that customers prefer to stick to one brand. There are many existing competitors in the market already. Our company cannot pay attention to every single new player unless they offer a product or pricing that will radically affect consumer behavior, otherwise we’d constantly be reacting to the market. We should be aware of our customer's competitors, but shouldn’t always adjust according to our competitors since we have our own business structure in place. Moreover, we don’t want to get stuck up in a price war – this is because our customer is much bigger, it’s harder for us to change our existing business mode since this may not be a sustainable practice. Anyone can lower their price, but unless we plan to keep prices low it’s not a sustainable method for gaining new customers.
+It’s mentioned in the case that customers prefer to stick to one brand. There are many existing competitors in the market already, and our company cannot pay attention to every single new player unless they offer a product or pricing that will radically affect consumer behavior, otherwise we’d constantly be reacting to the market. We should be aware of our customer's competitors, but shouldn’t always adjust according to our competitors since we have our own business structure in place. Moreover, we don’t want to get stuck up in a price war – this is because our customer is much bigger, it’s harder for us to change our existing business mode since this may not be a sustainable practice. Anyone can lower their price, but unless we plan to keep prices low it’s not a sustainable method for gaining new customers.
 
 Therefore I believe that the best option is to focus on securing our own brand loyalty while acquiring more consumers from existing competitors.
 
