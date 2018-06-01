@@ -20,23 +20,23 @@ Our goals are to:
 - Increase profitability
 - We do not want to focus on pricing or beating competitor out of the market. 
 
-It’s mentioned in the case that customers prefer to stick to one brand. There are many existing competitors in the market already, and our company cannot pay attention to every single new player unless they offer a product or pricing that will radically affect consumer behavior, otherwise we’d constantly be reacting to the market. We should be aware of our customer's competitors, but shouldn’t always adjust according to our competitors since we have our own business structure in place. Moreover, we don’t want to get stuck up in a price war – this is because our customer is much bigger, it’s harder for us to change our existing business mode since this may not be a sustainable practice. Anyone can lower their price, but unless we plan to keep prices low it’s not a sustainable method for gaining new customers.
+It’s mentioned in the case that customers prefer to stick to one brand. There are many existing competitors in the market already, and our company cannot pay attention to every single new player unless they offer a product or pricing that will radically affect consumer behavior, otherwise we’d constantly be reacting to the market. We should be aware of our customer's competitors, but shouldn’t always adjust according to our competitors since we have our own business structure in place. Moreover, we don’t want to get stuck up in a price war – this is because we are much bigger, so it’s harder for us to change our existing business mode, and this may not be a sustainable practice. Anyone can lower their price, but unless we plan to keep prices low it’s not a sustainable method for gaining new customers.
 
 Therefore I believe that the best option is to focus on securing our own brand loyalty while acquiring more consumers from existing competitors.
 
-There are a number of ways to do this, too many to count, so I won’t list them all. But because we are in the applied analytics program, I thought that the best method would be to utilize analytics in creating our recommendation to the CEO.
+There are a number of ways to do this - there are too many to count, so I won’t list them all. But because we are in the applied analytics program, I thought that the best method would be to utilize analytics in creating our recommendation.
 
 There’s something called the 80/20 rule in sales – it states that 80% of your profit comes from 20% of your most loyal customers. There are both good and not so good customers. Customers who are easily drawn away by a lowered price are not our most profitable or loyal anyways and are more likely to be one-time purchasers.
 
 My strategy is as follows:
-- Using analytical techniques, we want to identify the most important or profitable customers through market analysis and various analytical techniques using data from the AIS.
+- Using analytical techniques, we want to identify the most important or profitable customers through market analysis and various analytical techniques using data from the comapny's AIS.
 - Determine what they value most (through interviews, various analytical techniques that look at reviews, and so on.)
 - Tailor your products and services to meet their specific needs
 
 Disadvantages:
 - May limit appeal to wider audience
 - May be costly to conduct market research and build analytical tools, especially if there is not a high analytical reliance in place.
-- Results may go against intuition, may be harder to convince people to go against their experience  or desire to cut out compeition
+- Results may go against the intuition of senior management. May be harder to convince people to go against their experience or desire to cut out compeition
 
 Advantages:
 - Build a more niche market by differentiating yourself and attract the right types of customers
