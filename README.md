@@ -3,10 +3,10 @@
 ## Summary
 I have provided a script of my solution to the problem presented in the case competition. The competition took place over the course of two days – the first day involved getting to know the problem and formulating a strategy, while day two involved presenting our solution to the judges. Some data relating to the dry wall industry’s market share was provided. 
 
-## Problem:
+## Problem
 An incoming low-cost competitor is entering the dry wall market, and our customer, the largest dry wall manufacturer in the country, must decide how to respond. 
 
-## Assumptions:
+## Assumptions
 
 - Dry wall market is mature (been around for a while)
 - Drywall competition is fierce (32 other competitors)
